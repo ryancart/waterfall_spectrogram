@@ -1,5 +1,7 @@
-# waterfall_spectrogram
+# Live 3D Spectrogram Waterfall
 A Joyful and simple 3D live waterfall spectrogram.
+
+![Live 3D Spectrogram Screenshot](pic.png)
 
 ## About
 This is NOT production ready or calibrated or certified or anything of the like.
@@ -33,3 +35,4 @@ Other than the above note about frequencies above 9kHz-ish, the only other major
 very low noise levels, the low end of the spectrum will populate with noise. 
 
 I've done what I care to for the time being to filter that out and not lose the capability of detecting low frequency noise.
+
