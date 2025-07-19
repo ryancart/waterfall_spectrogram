@@ -1,0 +1,5 @@
+numpy
+sounddevice
+PyQt5
+pyqtgraph
+scipy
