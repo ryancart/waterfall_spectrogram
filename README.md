@@ -28,6 +28,10 @@ Open a termnal from that same folder (or open a terminal and cd to where the fil
 
     python 3D_Spectrogram.py
 
+If you want to narrow the range of the Spectrogram to 50Hz to 9kHz, download the file with '_50_9000Hz' in it and then from terminal:
+
+    python 3D_Spectrogram_50_9000Hz.py
+
 Enjoy!
 
 ## Known 'particularities' 
